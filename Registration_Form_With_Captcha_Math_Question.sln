@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registration_Form_With_Captcha_Math_Question", "Registration_Form_With_Captcha_Math_Question.csproj", "{B5B0AB75-CA25-4E27-8DB9-14AF5FC1C486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5B0AB75-CA25-4E27-8DB9-14AF5FC1C486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B0AB75-CA25-4E27-8DB9-14AF5FC1C486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B0AB75-CA25-4E27-8DB9-14AF5FC1C486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B0AB75-CA25-4E27-8DB9-14AF5FC1C486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35A0EB00-4324-4BA0-9870-FF01B3A07832}
+	EndGlobalSection
+EndGlobal
